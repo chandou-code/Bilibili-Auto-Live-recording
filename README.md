@@ -1,1 +1,2 @@
 # Bilibili-Auto-Live-recording
+selenium4实现输入Up主的uid自动检测直播间是否开播，并且录播，至于具体录播工具要自备，我用的ocam，最后录播工具设置快捷键F6开始F6结束。具体使用方法得先启动getcookie.py自动获取你的cookie，然后再启动main.py来使用整个脚本
